@@ -1,73 +1,79 @@
 <div align="center">
-<pre>
-  _/_/_/_/  _/_/_/  _/_/_/  _/_/_/_/  _/_/_/  _/_/_/_/_/
- _/        _/  _/  _/  _/  _/        _/          _/     
-_/_/_/    _/_/_/  _/_/_/  _/_/_/    _/          _/      
-   _/    _/  _/  _/      _/        _/          _/       
-_/_/_/    _/  _/  _/      _/_/_/_/  _/_/_/      _/        
-</pre>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=460&lines=Hey%2C+I'm+Deesh;A+First-Year+AI+Engineer;I+build+adaptive+systems;...and+I'm+always+learning." alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">I build systems that breathe logic and adaptability.</h3>
-
-<div align="center">
-
----
-### C O R E // P R O C E S S
----
-
-</div>
-
-<div align="center">
-<pre>
-[ <strong>IDEATION & DESIGN</strong> ]
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" height="25"/>
-         |
-         V
-[ <strong>LOGIC & DEVELOPMENT</strong> ]
-    /       |       \
-   /        |        \
-  V         V         V
-<strong>CLIENT</strong>  <strong>SERVER</strong>    <strong>INTELLIGENCE</strong>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" height="25"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25"/>  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="25"/>  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25"/>
-         |
-         V
-[ <strong>DATA & PERSISTENCE</strong> ]
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="25"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="25"/>
-         |
-         V
-[ <strong>DEPLOYMENT & SCALING</strong> ]
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" height="25"/>
-         |
-         V
-[ <strong>CONTINUOUS LEARNING & ITERATION</strong> ] -> <i>(cycle repeats)</i>
-</pre>
-</div>
-
-<div align="center">
-
----
-### L I V E // T E L E M E T R Y
----
-
-</div>
-
-<details align="center">
-  <summary><strong>> Load GitHub System Diagnostics</strong></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=deesh-code&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=deesh-code&theme=aura&hide_border=true" alt="GitHub Streak Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deesh-code&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  </p>
-</details>
-
-<div align="center">
-
----
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=deesh-code&icon=0&color=0" alt="visitor badge"/>
+  <a href="[YOUR_LINKEDIN_URL_HERE]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[YOUR_TWITTER_URL_HERE]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="[YOUR_PORTFOLIO_URL_HERE]"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"></a>
 </p>
 
-</div>
+---
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>
+          🚀 I'm a first-year <b>B.Tech CSE (AI)</b> student passionate about building systems that breathe logic and adaptability.
+        </li>
+        <li>
+          🧠 My journey is self-taught, spanning from mobile apps with <b>Flutter</b> to scalable backends with <b>Django & FastAPI</b>.
+        </li>
+        <li>
+          💡 I believe in the power of clean code, scalable architecture, and continuous learning.
+        </li>
+      </ul>
+      <hr>
+      <h3>🛠️ My Core Toolkit</h3>
+      <p>These are the technologies I'm most focused on right now.</p>
+      <table>
+        <tr>
+          <td align="center" width="120">
+            <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter"/><br><b>Flutter</b>
+          </td>
+          <td align="center" width="120">
+            <img src="https://skillicons.dev/icons?i=django" width="45" alt="Django"/><br><b>Django</b>
+          </td>
+          <td align="center" width="120">
+            <img src="https://skillicons.dev/icons?i=pytorch" width="45" alt="PyTorch"/><br><b>PyTorch</b>
+          </td>
+          <td align="center" width="120">
+            <img src="https://skillicons.dev/icons?i=aws" width="45" alt="AWS"/><br><b>AWS</b>
+          </td>
+        </tr>
+      </table>
+      <details>
+        <summary>Click to see the full tech stack</summary>
+        <br>
+        <p>
+          <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+          <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+          <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+          <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+          <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        </p>
+      </details>
+    </td>
+    <td width="35%" valign="top">
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=deesh-code&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats"/>
+      <hr>
+      <h3>🗓️ Contribution Graph</h3>
+      <img src="https://ghchart.rshah.org/deesh-code?color=7950f2&bg_color=15141b&hide_border=true" alt="Contribution Graph"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=deesh-code&icon=6&color=5" alt="visitor badge"/>
+</p>
