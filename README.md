@@ -1,72 +1,147 @@
-```typescript
-interface Developer {
-  name: "Prathish D";
-  role: "Software Engineer";
-  focus: ["Language Design", "Developer Experience", "Open Source"];
-  location: "Building from everywhere";
-}
-```
-
 <div align="center">
 
-### Software Engineer & Open Source Contributor
-
-*Crafting thoughtful solutions to complex problems*
+```ascii
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│                       S U N I L                         │
+│                                                         │
+│                 Full-stack Architect                    │
+│                Precision-focused Builder                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br>
 
-## Philosophy
+---
 
-I believe in the power of well-designed systems and the importance of developer experience. My approach combines technical precision with human-centered design, creating tools and solutions that are both powerful and intuitive.
+## ⚡ Current Status
 
-## Current Work
+```bash
+$ whoami
+sunil
 
-**Language Design** — Contributing to the [Mangle language](https://github.com/google/mangle) with enhanced aggregation syntax and interactive documentation systems
+$ cat /etc/role
+Full-stack architect designing scalable systems and elegant solutions
 
-**Developer Tooling** — Building automation and documentation tools that improve the development workflow
+$ systemctl status projects
+● mangle-enhancements.service    ─ active   ─ Grammar visualization systems  
+● aggregation-syntax.service     ─ active   ─ Language design improvements
+● developer-tooling.service      ─ active   ─ Documentation automation
+● open-source.service           ─ active   ─ Community contributions
 
-**Open Source** — Maintaining various utilities and contributing to projects that enhance the broader developer ecosystem
-
-## Technical Approach
-
-```python
-def solve_problem(challenge):
-    """My approach to software engineering"""
-    return (
-        understand_context(challenge) +
-        design_elegant_solution() +
-        implement_with_precision() +
-        iterate_based_on_feedback()
-    )
+$ uptime
+Building innovative solutions since initialization...
 ```
 
-**Primary Technologies:** Python, Go, JavaScript, TypeScript  
-**Architecture & Infrastructure:** AWS, Docker, Kubernetes, Terraform  
-**Specializations:** Language Design, Documentation Systems, Developer Experience
+## 🎯 Architecture Principles
 
-## Selected Projects
+```typescript
+interface ArchitecturalApproach {
+  readonly precision: "Every line serves a purpose";
+  readonly scalability: "Design for tomorrow's problems";
+  readonly elegance: "Simplicity is the ultimate sophistication";
+  readonly reliability: "Systems that just work";
+}
 
-**🚂 [Grammar Railroad Diagrams](https://github.com/google/mangle/pull/76)**  
-Built automated EBNF conversion and interactive visualization system for programming language grammars. Addressed long-standing community request with comprehensive documentation generation.
+const buildSolution = (problem: ComplexChallenge): ElegantSolution => {
+  return analyze(problem)
+    .then(architect)
+    .then(implement)
+    .then(optimize)
+    .then(document);
+}
+```
 
-**⚡ [Enhanced Aggregation Syntax](https://github.com/google/mangle/pull/75)**  
-Designed and implemented expressive aggregation operations following functional programming principles. Maintained backward compatibility while significantly improving developer ergonomics.
+## 🚀 Recent Builds
 
-## Interests
+**Grammar Railroad Diagrams**  
+`├─ Type: Language Tooling`  
+`├─ Tech: Python, JavaScript, GitHub Actions`  
+`├─ Impact: Enhanced developer documentation workflow`  
+`└─ Status: Deployed` → [View](https://github.com/google/mangle/pull/76)
 
-- **Language Design** — Creating expressive, intuitive programming languages
-- **Developer Experience** — Building tools that make development more enjoyable  
-- **Documentation Systems** — Automating and improving technical communication
-- **System Architecture** — Designing scalable, maintainable software systems
+**Enhanced Aggregation Syntax**  
+`├─ Type: Language Design`  
+`├─ Tech: Go, ANTLR, Functional Programming`  
+`├─ Impact: Improved developer ergonomics`  
+`└─ Status: Merged` → [View](https://github.com/google/mangle/pull/75)
+
+## ⚙️ Stack Architecture
+
+```yaml
+Languages:
+  primary: [Python, Go, JavaScript, TypeScript]
+  exploring: [Rust, Zig]
+
+Infrastructure:
+  cloud: [AWS, Google Cloud]
+  containers: [Docker, Kubernetes]
+  automation: [Terraform, GitHub Actions]
+
+Databases:
+  relational: [PostgreSQL, SQLite]
+  document: [MongoDB]
+  cache: [Redis]
+  
+Frontend:
+  frameworks: [React, Next.js]
+  styling: [Tailwind, CSS3]
+
+Specializations:
+  - Language Design & Compiler Construction
+  - Documentation Systems & Developer Experience  
+  - Distributed Systems Architecture
+  - Performance Optimization
+```
+
+## 📡 Network
+
+```bash
+$ curl -s https://sunil.dev/contact
+{
+  "email": "harinifk@gmail.com",
+  "github": "@deesh-code", 
+  "portfolio": "https://lui-bay.vercel.app",
+  "location": "Building from distributed nodes",
+  "status": "Open to interesting problems"
+}
+```
+
+## 💭 Philosophy
+
+```python
+class SystemDesign:
+    """
+    Core principles for building reliable, scalable systems
+    """
+    
+    def __init__(self):
+        self.principles = {
+            'clarity': 'Code should tell a story',
+            'performance': 'Optimize for the right metrics', 
+            'maintainability': 'Future-proof through simplicity',
+            'reliability': 'Fail gracefully, recover automatically'
+        }
+    
+    def architect(self, requirements):
+        return self.principles.apply(requirements) \
+               .with_precision() \
+               .and_elegance()
+```
 
 ---
 
 <div align="center">
 
-**Let's connect:** [harinifk@gmail.com](mailto:harinifk@gmail.com) · [@deesh-code](https://github.com/deesh-code)
+```
+Loading excellence...  ████████████████████████████████████ 100%
 
-<sub>*Always open to interesting conversations about technology, design, and the future of software development*</sub>
+System ready. Building the future, one commit at a time.
+```
+
+<sub>**Precision-engineered** • **Performance-optimized** • **Future-ready**</sub>
 
 </div>
