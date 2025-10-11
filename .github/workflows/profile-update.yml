@@ -35,3 +35,4 @@ jobs:
         else
           git commit -m "Update profile stats"
           git push
+        fi
