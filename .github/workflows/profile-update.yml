@@ -7,14 +7,19 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write  # Allow the workflow to write to repository contents
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
-      
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
     - name: Update commit count
       run: |
         # Simple, professional update
@@ -30,4 +35,3 @@ jobs:
         else
           git commit -m "Update profile stats"
           git push
-        fi
