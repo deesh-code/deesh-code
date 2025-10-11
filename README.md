@@ -1,282 +1,71 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗██╗███████╗██╗  ██╗             ║
-║    ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██╔════╝██║  ██║             ║
-║    ██████╔╝██████╔╝███████║   ██║   ███████║██║███████╗███████║             ║
-║    ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██║╚════██║██╔══██║             ║
-║    ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║███████║██║  ██║             ║
-║    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝             ║
-║                                                                              ║
-║                    ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄                      ║
-║                   ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌                     ║
-║                   ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀  ▀▀▀▀█░█▀▀▀▀                      ║
-║                   ▐░▌       ▐░▌     ▐░▌          ▐░▌                         ║
-║                   ▐░█▄▄▄▄▄▄▄█░▌     ▐░▌          ▐░▌                         ║
-║                   ▐░░░░░░░░░░░▌     ▐░▌          ▐░▌                         ║
-║                   ▐░█▀▀▀▀█░█▀▀      ▐░▌          ▐░▌                         ║
-║                   ▐░▌     ▐░▌       ▐░▌          ▐░▌                         ║
-║                   ▐░▌      ▐░▌ ▄▄▄▄▄█░█▄▄▄▄  ▄▄▄▄█░█▄▄▄▄                      ║
-║                   ▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌                     ║
-║                    ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀                      ║
-║                                                                              ║
-║                              CODE ARCHITECT                                 ║
-║                              DIGITAL ARTIST                                 ║
-║                              REALITY HACKER                                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-# 🌊 WELCOME TO THE MATRIX 🌊
+# Prathish D
 
-### *Where Code Meets Consciousness*
+**Software Engineer & Open Source Contributor**
 
-```javascript
-class PrathishD extends Developer {
-  constructor() {
-    super();
-    this.reality = 'malleable';
-    this.passion = Infinity;
-    this.limits = null;
-  }
-  
-  hack() {
-    return this.imagination.compile(dreams);
-  }
-}
-```
+*Building elegant solutions for complex problems*
 
 </div>
 
----
-
-## 🚀 ACTIVE MISSIONS
-
-<table>
-<tr>
-<td width="33%">
-
-### 🎯 MISSION 001
-**NEURAL NETWORKS**
-```
-Status: EXECUTING
-Progress: ████████░░ 87%
-Target: AGI Architecture
-```
-
-</td>
-<td width="33%">
-
-### 🔥 MISSION 002  
-**QUANTUM COMPUTING**
-```
-Status: RESEARCH
-Progress: ████░░░░░░ 43%
-Target: Qubit Manipulation
-```
-
-</td>
-<td width="33%">
-
-### ⚡ MISSION 003
-**BLOCKCHAIN PROTOCOL**
-```
-Status: DEPLOYED
-Progress: ██████████ 100%
-Target: Decentralized Future
-```
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-## 🧬 DNA SEQUENCE (Tech Stack)
+## About
 
-```
-   A T G C     ╔════════════════════════════════════╗
-  ┌─────────┐  ║ LANGUAGES: Python•Go•Rust•JS•C++  ║
-  │ BACKEND │──║ FRAMEWORKS: React•Node•Django     ║
-  └─────────┘  ║ CLOUD: AWS•GCP•Docker•Kubernetes  ║
-   T C G A     ║ AI/ML: TensorFlow•PyTorch•OpenAI  ║
-               ║ BLOCKCHAIN: Solidity•Web3•Ethereum ║
-               ╚════════════════════════════════════╝
-```
+I'm a passionate software engineer with expertise in full-stack development, cloud architecture, and open source contributions. I believe in writing clean, maintainable code and building systems that scale.
 
----
+Currently contributing to language design projects and developer tooling, with a focus on enhancing developer experience through better documentation and intuitive interfaces.
 
-## 🎮 ACHIEVEMENT UNLOCKED
+## Recent Contributions
 
-<div align="center">
+**[Mangle Language](https://github.com/google/mangle)** — Enhanced aggregation syntax and interactive grammar documentation  
+**[Open Source Projects](https://github.com/deesh-code)** — Various tools and utilities for developers
 
-| 🏆 | ACHIEVEMENT | XP | DATE |
-|---|---|---|---|
-| 🚂 | **Railroad Architect** | +2500 XP | Oct 2024 |
-| ⚡ | **Syntax Master** | +3000 XP | Oct 2024 |
-| 🔮 | **Open Source Wizard** | +5000 XP | 2024 |
-| 🌟 | **Code Poet** | +∞ XP | Always |
+## Technical Stack
 
-**TOTAL LEVEL: ∞**
+**Languages:** Python, Go, JavaScript, TypeScript, Rust  
+**Frameworks:** React, Node.js, Django, Next.js  
+**Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Tools:** Git, Linux, CI/CD, Terraform
 
-</div>
+## Featured Projects
 
----
+### Grammar Railroad Diagrams
+Interactive documentation generator for programming language grammars. Built automated EBNF conversion and visual diagram generation system.
 
-## 📊 REAL-TIME STATS
+**Technologies:** Python, JavaScript, GitHub Actions  
+**Impact:** Enhanced developer documentation experience  
+[View Project →](https://github.com/google/mangle/pull/76)
 
-```
-┌─ SYSTEM STATUS ─────────────────────────────────────────────────┐
-│                                                                 │
-│  CPU Usage:     ████████████████████████████████████░░░░  89%   │
-│  Creativity:    ██████████████████████████████████████████ 100% │
-│  Coffee Level:  ████████████████████░░░░░░░░░░░░░░░░░░░░░   45%  │
-│  Debug Mode:    ████████████████████████████████████████████ ON │
-│                                                                 │
-│  Active Processes:                                              │
-│  └─ innovation.exe        ████████████████████████████ RUNNING │
-│  └─ problem_solving.py    ████████████████████████████ RUNNING │
-│  └─ future_building.go    ████████████████████████████ RUNNING │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+### Enhanced Aggregation Syntax
+Implemented expressive aggregation operations for the Mangle language, following functional programming principles while maintaining backward compatibility.
 
----
+**Technologies:** Go, ANTLR, Language Design  
+**Impact:** Improved developer ergonomics  
+[View Project →](https://github.com/google/mangle/pull/75)
 
-## 🌐 NETWORK CONNECTIONS
+## Current Focus
 
-<div align="center">
+Working on enhancing developer tooling and documentation systems. Particularly interested in language design, developer experience, and automated documentation generation.
 
-```
-     ╭─────────╮     ╭─────────╮     ╭─────────╮
-     │ GITHUB  │────▶│ PRATHISH│◀────│ TWITTER │
-     ╰─────────╯     ╰─────────╯     ╰─────────╯
-           │               │               │
-           ▼               ▼               ▼
-     ╭─────────╮     ╭─────────╮     ╭─────────╮
-     │LINKEDIN │     │ WEBSITE │     │  EMAIL  │
-     ╰─────────╯     ╰─────────╯     ╰─────────╯
-```
-
-**📧** `harinifk@gmail.com`  
-**🔗** `@deesh-code`  
-**🌍** `Building from the Matrix`
-
-</div>
-
----
-
-## 🔮 CURRENT EXPERIMENTS
-
-<details>
-<summary>🧪 Click to reveal active experiments...</summary>
-
-### 🚀 Project Quantum
-```python
-def quantum_leap():
-    while reality.is_stable():
-        inject(chaos)
-        if breakthrough_detected():
-            return paradigm_shift()
-    return "Still hacking reality..."
-```
-
-### 🌟 Project Neural
-```go
-func mindMeld(human, ai Brain) Consciousness {
-    synergy := combine(human.creativity, ai.processing)
-    return transcend(synergy)
-}
-```
-
-### ⚡ Project Infinity  
-```rust
-fn create_impossible() -> Result<Reality, Limits> {
-    match imagination {
-        Infinite => Ok(anything),
-        _ => unreachable!("Limits don't exist here")
-    }
-}
-```
-
-</details>
-
----
-
-## 🎨 ASCII ART GALLERY
-
-<div align="center">
-
-```
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░   _____ _____ _____ _____ _____   ░
-    ░  |     |     |     |   __|  _  |  ░
-    ░  |   --|  |  |   --|   __|     |  ░
-    ░  |_____|_____|_____|_____|__|__|  ░
-    ░                                   ░
-    ░    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     ░
-    ░   ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓    ░
-    ░  ▓▒░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▓   ░
-    ░ ▓▒░ BUILDING THE FUTURE ONE ░▒▓  ░
-    ░ ▓▒░   LINE OF CODE AT A TIME ░▒▓  ░
-    ░  ▓▒░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▓   ░
-    ░   ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓    ░
-    ░    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     ░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-</div>
-
----
-
-## 🎯 MISSION BRIEFING
-
-> **CLASSIFIED LEVEL ∞**
->
-> Agent Prathish, your mission is to push the boundaries of what's possible.  
-> Break the matrix. Rewrite the rules. Build tomorrow, today.
->
-> **Status:** ACTIVE  
-> **Clearance:** UNLIMITED  
-> **Objective:** CHANGE THE WORLD  
+Always open to interesting projects and collaboration opportunities.
 
 ---
 
 <div align="center">
 
-## 🌊 ENTER THE FLOW STATE 🌊
+**Contact:** harinifk@gmail.com  
+**GitHub:** [@deesh-code](https://github.com/deesh-code)
 
-```
-    ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
-    ∞                                     ∞
-    ∞   "The future belongs to those      ∞  
-    ∞    who believe in the beauty        ∞
-    ∞    of their dreams."                ∞
-    ∞                                     ∞
-    ∞           - Eleanor Roosevelt       ∞
-    ∞                                     ∞
-    ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
-```
+<br>
 
----
+*"The best way to predict the future is to invent it."*
 
-**🔥 Currently debugging reality...**  
-**⚡ Uploading consciousness to the cloud...**  
-**🌟 Compiling dreams into code...**
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=deesh-code&color=00ff00&style=for-the-badge&label=MATRIX+ENTRIES)
+![](https://komarev.com/ghpvc/?username=deesh-code&color=555&style=flat-square)
 
-**🎮 GAME OVER? GAME JUST BEGAN.**
-
-</div>
-
----
-
-<div align="center">
-<sub>
-This README updates in real-time through quantum entanglement.  
-If you're reading this, you're already part of the experiment.
-</sub>
 </div>

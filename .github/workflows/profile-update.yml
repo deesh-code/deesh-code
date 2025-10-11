@@ -1,0 +1,33 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Daily at noon
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
+    - name: Update commit count
+      run: |
+        # Simple, professional update
+        echo "<!-- Profile updated: $(date) -->" >> README.md
+        
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update profile stats"
+          git push
+        fi
