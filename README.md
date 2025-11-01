@@ -1,169 +1,174 @@
+# Hello, I'm Prathish D 👋
+
 <div align="center">
 
-```ascii
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│                       S U N I L                         │
-│                                                         │
-│                 Full-stack Architect                    │
-│                Precision-focused Builder                │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Full-Stack+Developer;AI%2FML+Innovator;System+Architect;Community+Builder)
 
 </div>
 
-<br>
+## 🚀 About Me
+
+I'm a passionate **open source contributor** and full-stack developer who believes in the power of collaborative innovation. I build cutting-edge solutions that bridge AI/ML with real-world applications, contributing to the global developer community through open source projects and shared knowledge.
+
+> *"Building in the open, learning together, growing the ecosystem one commit at a time."*
+
+### 🎯 What I Do
+- **🌍 Open Source Contributions**: Active contributor to community projects and maintainer of innovative tools
+- **🤖 AI/ML Innovation**: Developing intelligent systems with TensorFlow, neural networks, and adaptive learning
+- **⚡ Performance Optimization**: Creating GPU-aware applications and resource-efficient solutions
+- **🌐 Full-Stack Development**: Building end-to-end web applications with modern frameworks
+- **🔧 System Architecture**: Designing scalable backend systems and APIs
+- **📚 Knowledge Sharing**: Contributing to developer education through documentation and tutorials
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Cloud & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+## 🌍 Open Source Contributions
+
+I'm committed to giving back to the developer community through open source contributions, building tools that solve real problems and sharing knowledge that helps others grow.
+
+### 🤝 Contribution Philosophy
+- **Quality over Quantity**: Every contribution aims to add meaningful value
+- **Community First**: Building tools that benefit the broader ecosystem
+- **Knowledge Sharing**: Documenting solutions for future developers
+- **Collaborative Growth**: Learning and teaching through code
 
 ---
 
-## ⚡ Current Status
+## 🌟 Featured Projects
 
-```bash
-$ whoami
-sunil
+### 🔥 [GPU Healer](https://github.com/deesh-code/gpu_healer)
+> **Intelligent Neural Network Training Platform**
 
-$ cat /etc/role
-Full-stack architect designing scalable systems and elegant solutions
+A revolutionary real-time, device-aware neural network trainer that gamifies ML model development. Features automatic GPU/CPU switching for optimal performance and eco-friendly training.
 
-$ systemctl status projects
-● mangle-enhancements.service    ─ active   ─ Grammar visualization systems  
-● aggregation-syntax.service     ─ active   ─ Language design improvements
-● developer-tooling.service      ─ active   ─ Documentation automation
-● open-source.service           ─ active   ─ Community contributions
+**🔧 Tech Stack**: Python, TensorFlow, Streamlit, Real-time Analytics  
+**🚀 Live Demo**: [GPU Healer App](https://63rmm9p4y983z5ugkw3sbr.streamlit.app/)
 
-$ uptime
-Building innovative solutions since initialization...
-```
+---
 
-## 🎯 Architecture Principles
+### 🤖 [ZealX](https://github.com/deesh-code/zealx)
+> **AI-Powered Digital Twin & Automation System**
 
-```typescript
-interface ArchitecturalApproach {
-  readonly precision: "Every line serves a purpose";
-  readonly scalability: "Design for tomorrow's problems";
-  readonly elegance: "Simplicity is the ultimate sophistication";
-  readonly reliability: "Systems that just work";
-}
+An advanced AI system with adaptive learning capabilities, designed to create intelligent digital twins and automate complex workflows.
 
-const buildSolution = (problem: ComplexChallenge): ElegantSolution => {
-  return analyze(problem)
-    .then(architect)
-    .then(implement)
-    .then(optimize)
-    .then(document);
-}
-```
+**🔧 Tech Stack**: Python, AI/ML, Automation  
+**📜 License**: MIT
 
-## 🚀 Recent Builds
+---
 
-**Grammar Railroad Diagrams**  
-`├─ Type: Language Tooling`  
-`├─ Tech: Python, JavaScript, GitHub Actions`  
-`├─ Impact: Enhanced developer documentation workflow`  
-`└─ Status: Deployed` → [View](https://github.com/google/mangle/pull/76)
+### 👥 [TeamJoin](https://github.com/deesh-code/Teamjoin)
+> **Collaborative Platform for Teams**
 
-**Enhanced Aggregation Syntax**  
-`├─ Type: Language Design`  
-`├─ Tech: Go, ANTLR, Functional Programming`  
-`├─ Impact: Improved developer ergonomics`  
-`└─ Status: Merged` → [View](https://github.com/google/mangle/pull/75)
+A modern team collaboration platform built with cutting-edge web technologies, enabling seamless project management and communication.
 
-## ⚙️ Stack Architecture
+**🔧 Tech Stack**: JavaScript, React, Modern Web APIs  
+**🌐 Live Site**: [TeamJoin Platform](https://teamjoin.vercel.app)
+
+---
+
+### 📚 [Interactive Learning Hub](https://github.com/deesh-code/Python)
+> **Dynamic Educational Platform**
+
+An interactive learning platform with gamified educational experiences and real-time progress tracking.
+
+**🔧 Tech Stack**: HTML5, CSS3, Interactive JavaScript  
+**🎓 Live Demo**: [Learning Hub](https://python-nu-inky.vercel.app)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deesh-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deesh-code&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=deesh-code&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 Professional Highlights
 
 ```yaml
-Languages:
-  primary: [Python, Go, JavaScript, TypeScript]
-  exploring: [Rust, Zig]
+Open Source Journey:
+  🌟 Active contributor to community projects
+  📦 Published reusable packages and tools
+  🤝 Collaborative development advocate
+  📝 Technical documentation contributor
 
-Infrastructure:
-  cloud: [AWS, Google Cloud]
-  containers: [Docker, Kubernetes]
-  automation: [Terraform, GitHub Actions]
-
-Databases:
-  relational: [PostgreSQL, SQLite]
-  document: [MongoDB]
-  cache: [Redis]
+Experience:
+  🎯 Focus: Full-stack development with AI/ML integration
+  🚀 Specialties: Performance optimization, system architecture
+  🌍 Impact: Building solutions that scale globally
   
-Frontend:
-  frameworks: [React, Next.js]
-  styling: [Tailwind, CSS3]
+Key Achievements:
+  ✨ Developed GPU-aware training systems
+  🔧 Created adaptive learning platforms  
+  🌐 Built production-ready web applications
+  📱 Delivered cross-platform mobile solutions
+  🤝 Contributed to open source ecosystem
 
-Specializations:
-  - Language Design & Compiler Construction
-  - Documentation Systems & Developer Experience  
-  - Distributed Systems Architecture
-  - Performance Optimization
+Innovation Areas:
+  🤖 Artificial Intelligence & Machine Learning
+  ⚡ Performance & Resource Optimization
+  🔄 Automation & Workflow Enhancement
+  🎮 Gamification & User Experience
+  🌍 Open Source Development & Community Building
 ```
 
-## 📡 Network
+## 🎨 Design Philosophy
 
-```bash
-$ curl -s https://sunil.dev/contact
-{
-  "email": "harinifk@gmail.com",
-  "github": "@deesh-code", 
-  "portfolio": "https://lui-bay.vercel.app",
-  "location": "Building from distributed nodes",
-  "status": "Open to interesting problems"
-}
-```
+> *"Building technology that adapts to humans, not the other way around"*
 
-## 💭 Philosophy
+I believe in creating intuitive, efficient, and scalable solutions that solve real-world problems. Every line of code I write is crafted with precision, performance, and user experience in mind.
 
-```python
-class SystemDesign:
-    """
-    Core principles for building reliable, scalable systems
-    """
-    
-    def __init__(self):
-        self.principles = {
-            'clarity': 'Code should tell a story',
-            'performance': 'Optimize for the right metrics', 
-            'maintainability': 'Future-proof through simplicity',
-            'reliability': 'Fail gracefully, recover automatically'
-        }
-    
-    def architect(self, requirements):
-        return self.principles.apply(requirements) \
-               .with_precision() \
-               .and_elegance()
-```
+### 🌱 Open Source Values
+- **Transparency**: Code should be readable and well-documented
+- **Collaboration**: Best solutions emerge from diverse perspectives
+- **Accessibility**: Technology should be available to everyone
+- **Sustainability**: Building for long-term community benefit
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lui-bay.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deesh-code)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinifk@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-Loading excellence...  ████████████████████████████████████ 100%
+**"Innovating at the intersection of AI, performance, and user experience"**
 
-System ready. Building the future, one commit at a time.
-```
+⭐ *Open to collaboration on interesting projects and innovative ideas!*
 
-<sub>**Precision-engineered** • **Performance-optimized** • **Future-ready**</sub>
+<sub>💡 Always learning • 🔧 Always building • 🚀 Always improving</sub>
 
-</div><!-- Profile updated: Sat Oct 11 12:57:19 UTC 2025 -->
-<!-- Profile updated: Sat Oct 11 14:45:27 UTC 2025 -->
-<!-- Profile updated: Sun Oct 12 12:34:19 UTC 2025 -->
-<!-- Profile updated: Mon Oct 13 12:39:25 UTC 2025 -->
-<!-- Profile updated: Tue Oct 14 12:41:13 UTC 2025 -->
-<!-- Profile updated: Wed Oct 15 12:40:41 UTC 2025 -->
-<!-- Profile updated: Thu Oct 16 12:40:48 UTC 2025 -->
-<!-- Profile updated: Fri Oct 17 12:39:03 UTC 2025 -->
-<!-- Profile updated: Sat Oct 18 12:35:00 UTC 2025 -->
-<!-- Profile updated: Sun Oct 19 12:35:02 UTC 2025 -->
-<!-- Profile updated: Mon Oct 20 12:40:19 UTC 2025 -->
-<!-- Profile updated: Tue Oct 21 12:40:53 UTC 2025 -->
-<!-- Profile updated: Wed Oct 22 12:41:18 UTC 2025 -->
-<!-- Profile updated: Thu Oct 23 12:41:08 UTC 2025 -->
-<!-- Profile updated: Fri Oct 24 12:41:05 UTC 2025 -->
-<!-- Profile updated: Sat Oct 25 12:34:36 UTC 2025 -->
-<!-- Profile updated: Sun Oct 26 12:35:45 UTC 2025 -->
-<!-- Profile updated: Mon Oct 27 12:41:23 UTC 2025 -->
-<!-- Profile updated: Tue Oct 28 12:39:43 UTC 2025 -->
-<!-- Profile updated: Wed Oct 29 12:41:32 UTC 2025 -->
-<!-- Profile updated: Thu Oct 30 12:40:02 UTC 2025 -->
-<!-- Profile updated: Fri Oct 31 12:40:15 UTC 2025 -->
-<!-- Profile updated: Sat Nov  1 12:35:19 UTC 2025 -->
+</div>
