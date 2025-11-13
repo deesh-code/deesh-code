@@ -1,0 +1,16 @@
+name: Update README
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update current activity
+        run: |
+          # Fetch your latest commit message or WIP status
+          echo "Now: $(curl -s https://api.github.com/users/deesh-code/events/public | jq -r '.[0].type')" > NOW.md
+          # Combine with main README
+          cat header.md NOW.md footer.md > README.md
